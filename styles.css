@@ -1,0 +1,36 @@
+/* add your CSS here */
+.main{
+ width: 300px;
+ margin: 0 auto;
+ border: 1px solid black;
+ padding: 0 15px;
+ box-shadow: 5px 5px silver;
+}
+
+h3{
+ margin: 20px 0;
+}
+
+.fact{
+ font-style: italic;
+}
+
+.bStyled{
+ font-weight: bold;
+}
+
+ul{
+ list-style: none;
+ padding: 0;
+}
+
+img{
+ height: 200px;
+ width: 300px;
+}
+
+.info{
+ border: 1px solid black;
+ margin: 10px 0;
+ padding: 0 10px;
+}
